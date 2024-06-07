@@ -1,4 +1,4 @@
-# # 1. 내 코드
+# 1. 내 코드
 n,m = map(int,input().split())
 small_list = []
 for i in range(n):
